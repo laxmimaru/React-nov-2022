@@ -1,0 +1,168 @@
+Expecation for today's session:-
+-Genral questions from ur end
+=====================================================
+--In one day u cant be react developer
+======================================================
+-course structure
+- pattern ,implemetation ,build app , or two
+
+
+
+Guidelines :-
+
+1)We will not go gy slides
+2)set the expectation of this session:-
+	-introduction
+	-guidelines
+	-go by step by step
+	-parallel working 
+	- gneral questions 
+	- order of concepts 
+	-make sure o connection
+	- advanced questions - 
+3 hour session
+
+1 .5 hour 15 minutes
+
+
+====================================================
+100% backend not covered
+
+========================================
+
+Prerequisitses
+
+-javascript
+====================================
+based on 
+==============
+MERN stack 
+
+=================
+
+
+
+Pre requisites:-
+===========
+
+1)text editor - vs code
+2)node js - server compile to code
+3)git bash - communications with gut hub ,upload repository,clone repository
+4)git hub - create account
+5)share the git hub url
+6)postman - for API 
+7)vs code extensions -
+	-eslint
+	-gitlens
+	-git History
+	-vscode icons
+	-tabnine
+========================================
+
+html,css,javascript,ES6
+==================================
+
+Search ->Listing -> Detailed -> checkoout/pay
+
+
+Fullstack developer:-
+
+1)Front End - React js ( can also be angular/vu)
+2)Back End -  Node js    (java,.net,python,php,ruby)
+3)Database -  mongodb  (mysql,oracle)
+4)Server - aws,GCP ,
+deply the apps heroku
+
+===========================
+full stack - angular + java + oracle 
+
+why mern stack?
+
+MERN - mongo db + 
+
+Express + React +Node js  - common skillset needed is javascript 
+
+Express+Node js - Backend 
+==========================
+
+Frontend vs Backend 
+
+Frontend  - runs on browser
+Backend  - runs on server
+
+============================
+which UI framework to choose?
+
+react,angular,vue
+==========================================
+
+What is React?
+
+Library vs frame work
+
+Library -is a smaller  unit & helps you accomplish smaller tasks 
+Framework - is a bigger unit  & helps you accomplish bigger tasks 
+
+React is frontend lib/framework which helps build single page applications using compoenent based architecture.
+
+=======================================================================
+
+npm :-
+->where does React run?
+->where does node js/express run?
+
+node js server 
+
+
+JSON -javascript object notation 
+java object -  key value pairs
+
+{
+
+
+}
+
+=============================================
+difference between npm and npx?
+
+============================
+
+steps to create a project :-
+---------------------------
+1)create a folder "React-nov-2022" on the local machine
+2)open this folder on vs code
+3)on terminal execute the below command ,and it creates a project,
+npx create-react-app foodordering
+
+4)In the third react project is created,to run the project execute the below 
+
+npm run start
+
+======================
+npm init
+
+npx create-react-app <project-name>
+
+To install any npm module ,
+
+
+npm i <module_name>
+
+npm i express
+
+===================================
+
+package.json - entry point for ur project
+build project
+run project
+test project
+=======================================
+react project folder strcture
+
+1)node_modules - dependency installed here
+2)src - code ,developer is concerned
+3)
+
+	
+	
+
