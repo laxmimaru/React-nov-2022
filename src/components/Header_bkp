@@ -1,0 +1,45 @@
+import React, { Component } from 'react';
+
+class Header extends Component {
+
+
+    render() {
+
+        const mySTyle = {
+            header: {
+                backgroundColor: 'tomato'
+            },
+            logo: {
+                color: 'white',
+                textAlign: 'center',
+                fontSize: '30px'
+            }
+        }
+
+        return <div>
+            <header style={mySTyle.header}>
+                <center>
+                    <h1>Edureka Developers hub</h1>
+                    <h2 style={{ color: 'green', fontSize: '30px' }}>Welcome to React training</h2>
+                    <input /> <br/>
+                    <span style={mySTyle.logo}>user input</span>
+                    <hr />
+                </center>
+            </header>
+        </div>
+
+    }
+}
+
+
+/*const Header=()=>{
+
+    return <div>
+        <center>
+            <h2>Edureka Developers hub</h2>
+            <hr/>
+        </center>
+    </div>
+}*/
+
+export default Header;

@@ -1,0 +1,115 @@
+
+1)src folder - write all the code -
+
+2)public folder - design,html content
+
+-two files are important 
+
+1)src -> index.js
+2)public -> index.html
+
+
+->In a react application we have only one html file,
+public ->index.html
+===================================
+Execution flow:- 
+
+index.js is loaded -> this binds the root node with the application.
+
+
+========================================
+
+npm modules needed to run the react application
+
+1)react - major module
+2)react-dom/client - useful rendering the application
+3)react-scripts - running,building and test application
+
+=================================
+
+ES5 - ECMA script 5 of js
+
+ES6 - ECMA script 6 of js
+
+ES 6:-
+
+Arrow function :- 
+Es6:-
+const App=()=>{
+  return <h1>Edureka react training</h1>
+}
+
+Es5:-
+
+function App(){
+	return <h1>Edureka react training</h1>
+}
+
+
+
+Es 5:- 
+
+function add(a,b){
+	return a+b
+}
+
+Es6:-
+
+const add=(a,b)=>{
+	return a+b
+}
+==========================
+
+JSX - wiring html code and returning html from javascript
+Javascript XML
+=========================
+
+3 types of components in React:-
+
+1)class components 
+	-logical components
+	-used for calling APIs
+	-for disply purpose
+	-can maintain state
+
+2)functional components
+	-dumb components
+	-used for display purpose
+	-we cant maintain the state
+
+3)hooks components
+==============================================
+
+Addinng CSS in reac:-
+
+1)inline css - not preferred 
+2)styled components/external style sheet - not preferred 
+3)styled object
+
+==========================================================
+
+state and props:-
+-------------------
+
+state :-
+	-state acts like a local variable
+	-every component cn have its own state
+	-value of state can be updated
+	-any data intercation will happen through state
+	-state is defined in class components
+	-with every change in state ,we can easily handle renders
+	-constructor is require for state
+	
+	
+props:-
+		-props help to transfer the data
+		-value of props can not be updated
+		-we can transfer props only in nested components
+		-In react we have parent child relationship
+		-child components receive props from parent
+
+
+
+
+
+
